@@ -1,0 +1,8 @@
+PyPDF2
+langchain_community
+langchain
+huggingface_hub
+streamlit
+torch
+transformers
+scikit-learn

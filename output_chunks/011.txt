@@ -1,0 +1,1 @@
+page_content='accordance with GAAP.\nWe use these non-GAAP financial measures for financial and operational decision-making and as a means to \nevaluate period-to-period comparisons. We believe that these non-GAAP financial measures provide meaningful \n3' metadata={'source': '2023q4-alphabet-earnings-release.pdf', 'page': 2}
